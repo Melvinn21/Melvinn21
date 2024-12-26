@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- From Chem E to Programming? 👨‍🎓🤷‍♂️🏭
+- Just starting to code 🐍
+- Looking for help in CS50 courses 😁
+- It's not Melvinn 🤫
 <!--
 **Melvinn21/Melvinn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
